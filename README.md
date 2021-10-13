@@ -4,7 +4,7 @@ Ce répertoire contient des Notebooks Python utilisés lors d'ateliers lors de l
 
 J'avais rapidement créé ces ateliers pour faire une introduction légère au langage plus adaptée à la colonie (et parce que j'avais envie de faire mes workshops, c'est vrai).
 
-Je compte créer dans un futur proche un autre repository qui sera une version moins "customisée" et surtout beaucoup plus complète - pour au moins traiter les fonctions, et par la suite plusieurs thèmes que je trouve pertinents.
+Je compte créer, dans un futur proche, un autre repository qui sera une version moins "customisée" et surtout beaucoup plus complète - pour au moins traiter les fonctions, et par la suite plusieurs thèmes que je trouve pertinents.
 
 ## Prérequis pour l'installation des notebooks
 
