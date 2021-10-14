@@ -9,7 +9,7 @@ Je compte créer, dans un futur proche, un autre repository qui sera une version
 ## Prérequis pour l'installation des notebooks
 
 + [Python 3.8 ou plus](https://www.python.org/downloads/) : Installer le module suivant :
-    + jupyter ( `pip install jupyter` dans un terminal)
+    + jupyter (`pip install jupyter` dans un terminal)
 + [Visual Studio Code](https://code.visualstudio.com/download) : Dans VSC, installer les extensions suivantes :
     + Python
     + Pylance
